@@ -1,0 +1,192 @@
+#post{
+    
+}
+.out1{
+    width: 98.9vw;
+    height: 120vh;
+  background-image: url(./img/IN-en-20221228-popsignuptwoweeks-perspective_alpha_website_large.jpg) ;
+  box-shadow: 200px 200px 250px 290px #000000ad inset;
+}
+.inner button{
+    background-color: transparent;
+    color: white;    
+    border: 1px solid white;
+    padding: 10px;
+    font-size: 14px;
+    border-radius: 2px;
+    margin-left: 30px;
+}
+.inner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#bn{
+   width: 100px;
+   background-color: #e50914;
+   border: none;
+   margin-right: 60px;
+}
+#en{
+    background-color: transparent;
+    color: white;
+    border: none;
+}
+.in h1{
+    font-family: 'Nunito', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+color: white;
+font-size: 60px;
+font-weight: 400;
+}
+.in{
+    margin-top: 150px;
+    margin-left: 400px;
+    width: 700px;
+    color: white;
+    font-weight: 400;
+    text-align: center;
+}
+#inp{
+    padding: 13px;
+    width: 500px;
+}
+#inp::placeholder{
+    font-size: 20px;
+}
+#ab{
+    background-color: #e20813;
+    font-size: 24px;
+    color: white;
+    border: none;
+    padding: 17px;
+    font-family: 'Ubuntu', sans-serif;
+    width: 240px;
+}
+.butandinp{
+    display: flex;
+}
+/* End Out1 */
+/* Start Out2 */
+.out2, .out3{
+
+    display: flex;
+    background-color: #000000;
+    height: 470px;
+    border-top: 10px solid #222222;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 220px;
+    padding-right: 220px;
+}
+.content{
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+    padding-right: 40px;
+}
+#topper{
+    position: absolute;
+    top: 50px;
+    right: 200px;
+}
+/* out3 */
+.content1, .chotu p, .out6{
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+}
+.chotu{
+    display: flex;
+    width: 330px;
+    padding: 10px;
+    height: 100px;
+    background-color: black;
+    border: 2px solid #404040;
+    border-radius: 10px;
+    position: absolute;
+    top: 280px;
+    left: 280px;
+}
+.chotu p {
+    padding-left: 10px;
+}
+/* Out4 */
+#vv{
+    /* padding-left:0px; */
+    margin-right: 80px;
+    margin-bottom: 140px;
+}
+/* out6 */
+.out6{
+    height: 1000px;
+    background-color: #000000;
+    border-top: 10px solid #222222; 
+}
+.ooo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#accordionExample{
+ width: 950px;  
+ font-family: 'Nunito', sans-serif;
+}
+.accordion-button, .accordion-body{
+    background-color: #303030;
+    color: white;
+    padding: 20px;
+    font-size: 25px;
+}
+.lala{
+    margin-top: 90px;
+margin-left: 400px;
+}
+.accordion-button{
+    margin-bottom: 10px;
+    background-color: black;
+}
+
+
+/* Last */
+.last{
+    border-top: 10px solid #222222;
+    padding-top: 50px;
+    background-color: #000000;
+    height: 390px;
+    line-height: 2.5;
+    padding-left: 250px;
+    padding-right: 250px;
+    color: #737373;
+}
+.last p{
+    padding-left: 60px;
+}
+.in-la{
+    display: flex;
+    justify-content: space-around;
+}
+.in-last  a{
+    font-size: 14px;
+    display: block;
+    color: #737373;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+.in-last a:hover{
+    text-decoration: underline 1px #737373;
+}
+.in-last i{
+    color: #737373;
+}
+#eng{
+background-color: transparent;
+color: #737373;
+font-size: 20px;
+border: none;
+}
+.in-last button{
+    background-color: transparent;
+    border-radius: 2px ;
+    border: 1px solid #737373;
+    padding: 14px;
+    
+}
